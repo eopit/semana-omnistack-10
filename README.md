@@ -1,5 +1,5 @@
 # semana-omnistack-10
-Omnistack week 10 - DevTinder
+OmniStack week 10 - DevTinder
 
 ### Commands to run:
 * **yarn start** => web folder
