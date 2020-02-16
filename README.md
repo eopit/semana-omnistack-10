@@ -18,3 +18,5 @@ OmniStack week 10 - DevTinder
 	"longitude":
 }
 ```
+### Database
+* Database used: MongoDB => _MongoDBAtlas_
